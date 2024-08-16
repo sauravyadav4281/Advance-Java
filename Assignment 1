@@ -1,0 +1,16 @@
+                                                         ------------logIn-------------------------
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Log In Application</title>
+</head>
+<body>
+		<form action="LoginServlet">  
+		Enter Your UserName <input type="text" name="UserName"/> <br>
+		Enter Your Password <input type="password" name="Password"/> <br>
+		<input type="submit" value="Log IN"/> <br>
+		</form>
+
+</body>
+</html>
